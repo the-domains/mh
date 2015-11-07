@@ -1,0 +1,23 @@
+name: mh
+favicon: null
+layout_spectrum: 0.9848878779448569
+typography_spectrum: 0.5756813390180469
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9862029680516571
+  lightness: 0.14461955591104925
+  saturation: 0.6189517534803599
+  rhythmicContrast: 0.05405688029713929
+purpose: []
